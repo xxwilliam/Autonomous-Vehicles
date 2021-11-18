@@ -6,7 +6,7 @@
 <h1>Autonomous Vehicles.</h1>
  
  <p><b>Autonomous Vehicles by William Hansen.</b></p>
- <p style="background-color:Dark Red;">
+
  
 <p>What is an Autonomous Vehicle?In simple terms it is a vehicle that drives by itself, with little or no human interaction. Along a predetermined path in <b>“auto pilot”.</b> And a terms it is a vehicle that drives by itself, with a predetermined program to get there safely. Autonomous Vehicles have come a long way. Experiments started in the 1920’s, and trials began in the 1950’s. Jump to 1977 for example, the 1st semi-automated vehicle was developed by Japan’s Tsukuba Mechanical Engineering lab. And that vehicle drove along a specially designed street with a top speed of 30 klms (19 mph). On an elevated rail. The tech back then was an analog computer and 2 cameras. Fast forward to the 5th of march, 2021, Honda introduced a limited edition<b> Legend Hybrid EX.</b> With a level 3 Automated driving , (See below for the different levels). But this vehicle was discontinued in June 2021. The technology involved is a range of different systems, including navigation systems, location systems, the global path planning, environment perception, laser perception, laser perception, radar perception,
  visual perception, vehicle control system.</p>
